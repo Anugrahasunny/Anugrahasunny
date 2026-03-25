@@ -38,4 +38,4 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-00ff00?style=for-the-badge&logo=gmail)](mailto:anugrahasunny2006@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin)](https:https://www.linkedin.com/in/anugraha-sunny-2004513a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anugraha-sunny-2004513a6)
